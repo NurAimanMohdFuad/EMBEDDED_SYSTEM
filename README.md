@@ -10,4 +10,6 @@ This folder contains all activities done for the course of Embedded System.
 
 ### IV. Week 7 - Interrupts
 
+### V. Week 8 - Non-volatile Memory
+
 
