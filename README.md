@@ -12,4 +12,6 @@ This folder contains all activities done for the course of Embedded System.
 
 ### V. Week 8 - Non-volatile Memory
 
+### VI. Week 9 - Power Management
+
 
