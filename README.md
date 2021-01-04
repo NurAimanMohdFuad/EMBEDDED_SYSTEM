@@ -14,4 +14,6 @@ This folder contains all activities done for the course of Embedded System.
 
 ### VI. Week 9 - Power Management
 
+### VII. Week 10 - Interfacing with Motor
+
 
